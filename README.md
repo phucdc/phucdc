@@ -1,3 +1,7 @@
+<div style="text-align: center"><h3>phucdc</h3></div>
+
+___
+
 ```console
 phucdc@git:~$ whoami
 phucdc
@@ -8,6 +12,8 @@ uid=1000(phucdc) gid=1000(phucdc) groups=1000(phucdc),1337(pentester),1001(noob)
 phucdc@git:~$ which company
 /viettel/vds
 ```
+
+___
 
 <div style="dispaly: block;text-align: left">
   <img align="left" src="https://github.com/phucdc/phucdc/assets/82533607/91bb7fdd-9cf5-44e6-92c6-a5be16204e30" border="0" style="width:170px;" />
