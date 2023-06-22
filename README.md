@@ -37,6 +37,6 @@ ___
 
 <p align="center">
   <samp>
-    $ <a href="https://www.facebook.com/phuc.duongcong1337/">Facebook</a> . <a href="https://t.me/phucdc1">Telegram</a> $
+    $ <a href="https://www.facebook.com/phuc.duongcong1337/" target="_blank">Facebook</a> . <a href="https://t.me/phucdc1" target="_blank">Telegram</a> $
   </samp>
 </p>
