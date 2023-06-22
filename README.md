@@ -10,7 +10,7 @@ phucdc@git:~$ which company
 ```
 
 <div style="dispaly: block;text-align: left">
-  <img align="left" src="https://github.com/phucdc/phucdc/assets/82533607/91bb7fdd-9cf5-44e6-92c6-a5be16204e30" border="0" style="width:185px;" />
+  <img align="left" src="https://github.com/phucdc/phucdc/assets/82533607/91bb7fdd-9cf5-44e6-92c6-a5be16204e30" border="0" style="width:170px;" />
   
 ```text
  _  _  __  ____  ____  ____  ____  __      ____  __  ___  __  ____  __   __   
