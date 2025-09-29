@@ -9,8 +9,8 @@ ___
 phucdc@vnpost.vn:~$ whoami
 phucdc
 
-phucdc@vnpost.vn:~$ id
-uid=1000(phucdc) gid=1000(phucdc) groups=1000(phucdc),1001(appsec),2909(cntt),1508(vnpost)
+phucdc@vnpost.vn:~$ groups
+phucdc appsec cntt vnpost
 
 phucdc@vnpost.vn:~$ which company
 /vnpost
